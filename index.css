@@ -33,3 +33,6 @@ background: -webkit-linear-gradient(to right, #93EDC7, #1CD8D2);  /* Chrome 10-2
 background: linear-gradient(to right, #93EDC7, #1CD8D2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+h4{
+    font-family: 'Open Sans', sans-serif;
+}

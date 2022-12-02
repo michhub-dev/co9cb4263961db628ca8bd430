@@ -1,8 +1,8 @@
 body {
-    /* uigradients.com */
-    background: #bdc3c7;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to top, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to top, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #2980B9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
     background-repeat: no-repeat;
     height: 100vh;
     display: flex;
@@ -34,11 +34,14 @@ background: linear-gradient(to right, #93EDC7, #1CD8D2); /* W3C, IE 10+/ Edge, F
 
 }
 h1{
+    color: #ffffff; 
     font-family: 'Open Sans', sans-serif;
     font-size: 2rem;
 }
 h4{
     font-family: 'Open Sans', sans-serif;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 small{
     margin-top: 0.5rem;
